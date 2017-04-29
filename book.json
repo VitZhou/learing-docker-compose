@@ -1,12 +1,12 @@
 {
   "author": "herryZ <zsh989163@163.com>",
-  "description": "Axon 学习笔记",
+  "description": "Docker Compose 学习笔记",
   "generator": "site",
   "sidebar": {
     "herryZ@gitbook": "https://henryZ.gitbooks.io"
   },
   "output": null,
-  "title": "Axon 学习笔记",
+  "title": "Docker Compose 学习笔记",
   "gitbook": ">=3.2.0",
   "plugins": [
     "donate",
@@ -29,7 +29,7 @@
       "wechatText": "微信打赏"
     },
 	"edit-link": {
-        "base": "https://github.com/henryZ/learning-axon/edit/master",
+        "base": "https://github.com/henryZ/learing-docker-compose/edit/master",
         "label": "Edit"
     },
     "tbfed-pagefooter": {
